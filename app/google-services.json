@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1084036553172",
+    "firebase_url": "https://pethousefirebase.firebaseio.com",
+    "project_id": "pethousefirebase",
+    "storage_bucket": "pethousefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084036553172:android:50fb6944fc40cef8",
+        "android_client_info": {
+          "package_name": "com.pethouse.bebinshaya.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084036553172-196b0q9rs0nq9a2it224hntotjhnnbob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pethouse.bebinshaya.project",
+            "certificate_hash": "450b422d03e48936f4839670bcad9b597fb92360"
+          }
+        },
+        {
+          "client_id": "1084036553172-o0jah4l6t3o9smci4lf2s0qlor99cqfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmCPTsxI_ohLGoyemUtUyH6NxQ4MsxYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084036553172-o0jah4l6t3o9smci4lf2s0qlor99cqfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
